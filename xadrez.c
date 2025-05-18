@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 void moverTorreRecursivo(int casas) {
     if (casas > 0) {
         printf("Direita\n");
